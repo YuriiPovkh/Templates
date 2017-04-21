@@ -24,26 +24,26 @@ The default MVC template that Visual Studio gives you does not make best use of 
 
 ## Project Templates
 
-Both ASP.NET 4.6 MVC 5 and ASP.NET Core MVC 6 are supported with their own project templates.
+Both ASP.NET 4.6 MVC 5 and ASP.NET Core MVC 1 are supported with their own project templates.
 
-### [ASP.NET Core MVC 6](https://github.com/ASP-NET-MVC-Boilerplate/Templates/blob/master/MVC%206.md)
+### [ASP.NET Core MVC 1](https://github.com/ASP-NET-MVC-Boilerplate/Templates/blob/master/MVC%206.md)
 
 #### Preview Image
 
-![ASP.NET-MVC-6-Boilerplate Preview Image](https://raw.githubusercontent.com/RehanSaeed/ASP.NET-MVC-Boilerplate/master/Images/MVC%206%20Preview%20Image.png)
+![ASP.NET-Core-MVC-1-Boilerplate Preview Image](https://raw.githubusercontent.com/RehanSaeed/ASP.NET-MVC-Boilerplate/master/Images/MVC%206%20Preview%20Image.png)
 
 #### Technology Map
 
-The ASP.NET Core MVC 6 project template contains the following features:
+The ASP.NET Core MVC 1 project template contains the following features:
 
-![ASP.NET MVC 6 Boilerplate Technology Map](https://raw.githubusercontent.com/ASP-NET-MVC-Boilerplate/Templates/master/Images/MVC%206%20Technology%20Map.png)
+![ASP.NET Core MVC 1 Boilerplate Technology Map](https://raw.githubusercontent.com/ASP-NET-MVC-Boilerplate/Templates/master/Images/MVC%206%20Technology%20Map.png)
 
 #### Feature Selection Wizard
 
-The ASP.NET Core MVC 6 project template comes with a feature selection wizard where literally everything can be turned on
+The ASP.NET Core MVC 1 project template comes with a feature selection wizard where literally everything can be turned on
 or off with the click of a button for a truly personalized project.
 
-![ASP.NET MVC 6 Boilerplate Technology Map](https://raw.githubusercontent.com/RehanSaeed/ASP.NET-MVC-Boilerplate/master/Images/ASP.NET%20MVC%20Boilerplate%20Feature%20Selection%20Wizard%201.png)
+![ASP.NET Core MVC 1 Boilerplate Technology Map](https://raw.githubusercontent.com/RehanSaeed/ASP.NET-MVC-Boilerplate/master/Images/ASP.NET%20MVC%20Boilerplate%20Feature%20Selection%20Wizard%201.png)
 
 
 
@@ -54,7 +54,7 @@ or off with the click of a button for a truly personalized project.
 
 
 
-### [ASP.NET Core MVC 6 API](https://github.com/ASP-NET-MVC-Boilerplate/Templates/blob/master/MVC%206%20API.md)
+### [ASP.NET Core MVC 1 API](https://github.com/ASP-NET-MVC-Boilerplate/Templates/blob/master/MVC%206%20API.md)
 
 #### Preview Image
 
@@ -62,7 +62,7 @@ or off with the click of a button for a truly personalized project.
 
 #### Technology Map
 
-The ASP.NET Core MVC 6 API project template contains the following features:
+The ASP.NET Core MVC 1 API project template contains the following features:
 
 ![ASP.NET MVC 6 API Boilerplate Technology Map](https://raw.githubusercontent.com/ASP-NET-MVC-Boilerplate/Templates/master/Images/MVC%206%20API%20Technology%20Map.png)
 
